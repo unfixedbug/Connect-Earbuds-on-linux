@@ -6,3 +6,7 @@ Create Excecutable file
 
 STEP 2:
 Create a .desktop file
+
+put a copy of the file in  
+$HOME/.local/applications and  $HOME/Desktop
+

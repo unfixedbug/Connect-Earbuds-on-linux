@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=false
+Icon[en_US]=airpods
+Name[en_US]=earpods
+Exec=/home/USERNAME/connect_earpods.sh
+Comment[en_US]=connect bt speaker
+Name=earpods
+Comment=connect bt speaker
+Icon=airpods
